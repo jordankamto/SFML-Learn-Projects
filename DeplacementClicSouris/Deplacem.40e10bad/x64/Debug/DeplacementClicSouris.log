@@ -1,0 +1,6 @@
+﻿  DeplacementClicSouris.cpp
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\DeplacementClicSouris\DeplacementClicSouris.cpp(35,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\DeplacementClicSouris\DeplacementClicSouris.cpp(35,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\DeplacementClicSouris\DeplacementClicSouris.cpp(39,82): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\DeplacementClicSouris\DeplacementClicSouris.cpp(39,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  DeplacementClicSouris.vcxproj -> C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\DeplacementClicSouris\x64\Debug\DeplacementClicSouris.exe
