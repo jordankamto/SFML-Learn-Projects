@@ -1,0 +1,8 @@
+﻿  ChocMouChocElastic.cpp
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\MainSolution2D\ChocMouChocElastic\ChocMouChocElastic.cpp(15,40): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\MainSolution2D\ChocMouChocElastic\ChocMouChocElastic.cpp(15,26): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\MainSolution2D\ChocMouChocElastic\ChocMouChocElastic.cpp(27,41): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\MainSolution2D\ChocMouChocElastic\ChocMouChocElastic.cpp(27,27): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\MainSolution2D\ChocMouChocElastic\ChocMouChocElastic.cpp(39,44): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\MainSolution2D\ChocMouChocElastic\ChocMouChocElastic.cpp(39,30): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  ChocMouChocElastic.vcxproj -> C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\MainSolution2D\x64\Debug\ChocMouChocElastic.exe
