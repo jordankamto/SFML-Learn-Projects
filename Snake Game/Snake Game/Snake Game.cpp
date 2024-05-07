@@ -7,7 +7,7 @@
 #pragma region MesVariablesGlobales
 int wTileNum = 56, hTileNum = 40, tileSize = 15;
 int windowWidth = 840 , windowHeight = 600;
-double gameTime, gameTimeDelay = 0.1, foodX, foodY;
+double gameTime =0, gameTimeDelay = 0.1, foodX, foodY;
 int snakeDirection, snakeSize = 2;
 sf::RenderWindow mainMenuWindow, gameWindow, gameOverWindow;
 sf::Event mainMenuEvent, gameEvent, gameOverEvent;
@@ -279,14 +279,14 @@ void gestionCollision()
 
 void lancerJeu()
 {
-	//reinitialisation du jeu a chawue lancement
+	//reinitialisation du jeu a chaque lancement
 	bool pause = false;
 	gameScore = 0;
-	hiScore = 0;
 	snakeDirection = 0;
 	snakeSize = 2;
 	snake[0].x = 0;
 	snake[0].y = 0;
+	gameTime = 0, gameTimeDelay = 0.1;
 
 
 	//code pour lancement d'une nouvelle partie de jeu
