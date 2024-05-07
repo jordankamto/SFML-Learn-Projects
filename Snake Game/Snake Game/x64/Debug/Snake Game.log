@@ -1,0 +1,19 @@
+﻿  Snake Game.cpp
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,62): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,62): warning C4244:         with
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,62): warning C4244:         [
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,62): warning C4244:             T=float
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,62): warning C4244:         ]
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,44): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,44): warning C4244:         with
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,44): warning C4244:         [
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,44): warning C4244:             T=float
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(90,44): warning C4244:         ]
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(138,66): warning C4566: le caractère représenté par le nom de caractère universel '\U0001F40D' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(292,62): warning C4566: le caractère représenté par le nom de caractère universel '\U0001F40D' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(411,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(411,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(420,60): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(420,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\Snake Game\Snake Game.cpp(436,66): warning C4566: le caractère représenté par le nom de caractère universel '\U0001F40D' ne peut pas être représenté dans la page de codes actuelle (1252)
+  Snake Game.vcxproj -> C:\Users\KAMGAING\Documents\ECOLE\NIVEAU 3\Semestre 2\ANI-PJ 3076 Programmation 2D\TP et Projets\Snake Game\x64\Debug\Snake Game.exe
